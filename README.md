@@ -5,7 +5,7 @@
 
 ## Use Case:
 
-![Use Case] (https://i.postimg.cc/QMQLH2px/UseCAse.png)
+![Use Cases] (https://i.postimg.cc/QMQLH2px/UseCAse.png)
 
 ## Tables:
 
