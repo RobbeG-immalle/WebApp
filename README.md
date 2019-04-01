@@ -1,7 +1,7 @@
 # Web App
 ## ER Diagramma:
 
-![ER Diagramma](https://i.postimg.cc/wxCZ6gRg/Tablediagram.png)
+![ER Diagramma](https://i.postimg.cc/FzdZMdV3/ERdiagrams.png)
 
 ## Use Case:
 ### TODO: Relaties verkeerd, Post tabel, Werkwoorden bij tabellen (Done)
@@ -10,5 +10,5 @@
 
 ## Tables:
 
-![Tables](https://i.postimg.cc/RVZv2Zw1/Tables.png)
+![Tables](https://i.postimg.cc/wxCZ6gRg/Tablediagram.png)
 
