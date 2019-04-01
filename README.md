@@ -6,7 +6,7 @@
 ## Use Case:
 ### TODO: Relaties verkeerd, Post tabel, Werkwoorden bij tabellen
 
-![Use Case](https://i.postimg.cc/QMQLH2px/UseCAse.png)
+![Use Case](https://cdn1.imggmi.com/uploads/2019/4/1/87dd0d21b9afd4e5244162e9315869d1-full.png)
 
 ## Tables:
 
